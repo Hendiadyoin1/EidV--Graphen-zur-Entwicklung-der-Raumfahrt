@@ -1,0 +1,121 @@
+,Spacecraft Name,NSSDCA ID,Launch Date,Site,Vehicle,Funder
+0,AMSAT P3D,2000-072B,2000-11-16," Kourou, French Guiana", Ariane 5,Unknown (International)
+1,Anik F1,2000-076A,2000-11-21," Kourou, French Guiana", Ariane 44L,Unknown (Canada)
+2,Asiastar,2000-016A,2000-03-21," Kourou, French Guiana", Ariane 5,unknown
+3,Astra 2B,2000-054A,2000-09-14," Kourou, French Guiana", Ariane 5,unknown
+4,Astra 2D,2000-081A,2000-12-20," Kourou, French Guiana", Ariane 5,Societe Europeenne des Satellites (Luxembourg) (Luxembourg)
+5,ASUSat,2000-004E,2000-01-27," Vandenberg AFB, United States", Minuteman-2,Unknown (United States)
+6,Beidou 1A,2000-069A,2000-10-30," Xichang, Peoples Republic of China", Long March 3A,China National Space Administration (Peoples Republic of China)
+7,Beidou 1B,2000-082A,2000-12-20," Xichang, Peoples Republic of China", Long March 3A,China National Space Administration (Peoples Republic of China)
+8,Bird-Ruben + Rocket Body,2000-039C,2000-07-15," Plesetsk, Russia", Kosmos-3M,Unknown (Federal Republic of Germany)
+9,Brazilsat B4,2000-046A,2000-08-17," Kourou, French Guiana", Ariane 44LP,unknown
+10,CHAMP,2000-039B,2000-07-15," Plesetsk, Russia", Kosmos-3M,"Deutsche Forschunganstalt fuer Luft- und Raumfahrt (DLR, nee DFVLR) (Federal Republic of Germany); GeoForschungsZentrum Potsdam (Federal Republic of Germany)"
+11,Cluster 2/FM5 (Rumba),2000-045A,2000-08-09," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Soyuz-Fregat,National Aeronautics and Space Administration (United States); European Space Agency (International)
+12,Cluster 2/FM6 (Salsa),2000-041B,2000-07-16," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Soyuz-Fregat,European Space Agency (International); National Aeronautics and Space Administration (United States)
+13,Cluster 2/FM7 (Samba),2000-041A,2000-07-16," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Soyuz-Fregat,European Space Agency (International); National Aeronautics and Space Administration (United States)
+14,Cluster 2/FM8 (Tango),2000-045B,2000-08-09," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Soyuz-Fregat,National Aeronautics and Space Administration (United States); European Space Agency (International)
+15,Cosmos 2369,2000-006A,2000-02-03," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Zenit 2,Russian Space Agency (Russia)
+16,Cosmos 2370,2000-023A,2000-05-03," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Soyuz-U,Unknown (Russia)
+17,Cosmos 2371,2000-036A,2000-07-04," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Proton-K,Unknown (Russia)
+18,Cosmos 2372,2000-056A,2000-09-25," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Zenit 2,Unknown (Russia)
+19,Cosmos 2373,2000-058A,2000-09-29," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Soyuz-U,Unknown (Russia)
+20,Cosmos 2374,2000-063C,2000-10-13," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Proton-K,Unknown (Russia)
+21,Cosmos 2375,2000-063A,2000-10-13," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Proton-K,Unknown (Russia)
+22,Cosmos 2376,2000-063B,2000-10-13," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Proton-K,Unknown (Russia)
+23,DM-F3,2000-048A,2000-08-23," Cape Canaveral, United States", Delta III,Unknown (United States)
+24,DSP 20,2000-024A,2000-05-08," Cape Canaveral, United States", Titan 4B,Unknown (United States)
+25,Dumsat,2000-009A,2000-02-08," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Soyuz-U,Unknown (Russia)
+26,Echostar 6,2000-038A,2000-07-14," Cape Canaveral, United States", Atlas 2AS,Unknown (United States)
+27,EO 1,2000-075A,2000-11-21," Vandenberg AFB, United States", Delta II,National Aeronautics and Space Administration (United States)
+28,EOS-AERO,EOSAERO,2000-06-01," , United States", Pegasus,NASA-Office of Space Science Applications (United States)
+29,EROS A1,2000-079A,2000-12-05," Svobodniy, Russia"," ICBM RS-12M Topol or SS-25 Sickle, 3-stage SRM",unknown
+30,Europe*Star 1,2000-068A,2000-10-30," Kourou, French Guiana", Ariane 44LP,Unknown (France); International Telecommunications Satellite Corporation (International)
+31,Eutelsat W1,2000-052A,2000-09-06," Kourou, French Guiana", Ariane 4,unknown
+32,Eutelsat W4,2000-028A,2000-05-25," Cape Canaveral, United States", Atlas 3,European Telecommunications Satellite Consortium (International)
+33,Express 2A,2000-013A,2000-03-12," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Proton-K,Russian Satellite Communications Company (Russia)
+34,Express A3,2000-031A,2000-06-24," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Proton-K,Russian Satellite Communications Company (Russia)
+35,FalconSat 1,2000-004D,2000-01-27," Vandenberg AFB, United States", Minuteman-2,Unknown (United States)
+36,Fengyun 2B,2000-032A,2000-06-25," Xichang, Peoples Republic of China", Long March 3,Unknown (Peoples Republic of China)
+37,Fregat,2000-009B,2000-02-08," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Soyuz-U,Unknown (Russia)
+38,Fregat RB/Cluster 2,2000-015A,2000-03-20," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Soyuz-U,Unknown (Russia)
+39,Galaxy 10R,2000-002A,2000-01-25," Kourou, French Guiana", Ariane 4,Unknown (French Guiana)
+40,Galaxy 4R,2000-020A,2000-04-19," Kourou, French Guiana", Ariane 42L,Pan American Satellite (United States)
+41,Garuda 1,2000-011A,2000-02-12," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Proton-K,Unknown (Indonesia)
+42,GE 1A,2000-059A,2000-10-01," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Proton-K,Unknown (United States)
+43,GE 6,2000-067A,2000-10-21," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Proton-K,Unknown (United States)
+44,GE 7,2000-054B,2000-09-14," Kourou, French Guiana", Ariane 5,Unknown (French Guiana)
+45,GE 8,2000-081B,2000-12-20," Kourou, French Guiana", Ariane 5,unknown
+46,Globalstar M060,2000-008C,2000-02-08," Cape Canaveral, United States", Delta II 7420,Globalstar (International)
+47,Globalstar M062,2000-008B,2000-02-08," Cape Canaveral, United States", Delta II 7420,Globalstar (International)
+48,Globalstar M063,2000-008A,2000-02-08," Cape Canaveral, United States", Delta II 7420,Globalstar (International)
+49,Globalstar M064,2000-008D,2000-02-08," Cape Canaveral, United States", Delta II 7420,Globalstar (International)
+50,GOES 11,2000-022A,2000-05-03," Cape Canaveral, United States", Atlas 2A,NASA-Office of Space Science Applications (United States); NOAA National Environmental Satellite Service (United States)
+51,Gorizont 33,2000-029A,2000-06-06," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Proton-K,Unknown (Russia)
+52,HETE 2,2000-061A,2000-10-09," Kwajalein, Republic of the Marshall Islands", Pegasus,National Aeronautics and Space Administration (United States)
+53,Hispasat 1C,2000-007A,2000-02-03," Cape Canaveral, United States", Atlas 2AS,"Hispasat, S.A (Spain)"
+54,IMAGE,2000-017A,2000-03-25," Vandenberg AFB, United States", Delta II 7326,NASA-Office of Space Science (United States)
+55,Insat 3B,2000-016B,2000-03-21," Kourou, French Guiana", Ariane 5,Unknown (India)
+56,JAWSat,2000-004A,2000-01-27," Vandenberg AFB, United States", Minuteman-2,Department of Defense-Department of the Air Force (United States)
+57,LDREX,2000-081C,2000-12-20," Kourou, French Guiana", Ariane 5,unknown
+58,Magnetic Storm Satellite (MSS),MSS-A,2000-01-01," Wallops Island, United States", Scout,NASA-Office of Space Science (United States); Department of Defense-Department of the Air Force (United States)
+59,Megsat,2000-057B,2000-09-26," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Dnepr,Unknown (Italy)
+60,MightySat 2.1,2000-042A,2000-07-19," Cape Canaveral, United States", Minotaur 1,Unknown (United States)
+61,MITA (NINA),2000-039A,2000-07-15," Plesetsk, Russia", Kosmos-3M,Unknown (Italy)
+62,MTI,2000-014A,2000-03-12," Vandenberg AFB, United States", Taurus,unknown
+63,Munin,2000-075C,2000-11-21," Vandenberg AFB, United States", Delta II,Unknown (Sweden)
+64,Nadezhda,2000-033A,2000-06-28," Plesetsk, Russia", Cosmos,Unknown (Russia)
+65,Navstar 47,2000-025A,2000-05-11," Cape Canaveral, United States", Delta II,Unknown (United States)
+66,Navstar 48,2000-040A,2000-07-16," Cape Canaveral, United States", Delta II,Unknown (United States)
+67,Navstar 49,2000-071A,2000-11-10," Cape Canaveral, United States", Delta II,Unknown (United States)
+68,Nilesat 102,2000-046B,2000-08-17," Kourou, French Guiana", Ariane 44LP,unknown
+69,NOAA 16,2000-055A,2000-09-21," Vandenberg AFB, United States", Titan II,NASA-Office of Space Science Applications (United States); National Oceanic and Atmospheric Administration (United States)
+70,Nsat 110,2000-060A,2000-10-06," Kourou, French Guiana", Ariane 42L,Unknown (Japan)
+71,OCS,2000-004B,2000-01-27," Vandenberg AFB, United States", Minuteman-2,Unknown (United States)
+72,OPAL,2000-004C,2000-01-27," Vandenberg AFB, United States", Minuteman-2,Unknown (United States)
+73,PAS 1R,2000-072A,2000-11-16," Kourou, French Guiana", Ariane 5,Unknown (United States); International Telecommunications Satellite Corporation (International)
+74,PAS 9,2000-043A,2000-07-28," Odyssey (Sea Launch Platform), ", Zenit 3SL,unknown
+75,Picosat 5,2000-004J,2000-03-03," Vandenberg AFB, United States", Minuteman-2,unknown
+76,Picosat 6,2000-004K,2000-01-27," Vandenberg AFB, United States", Minuteman-2,unknown
+77,Picosat 7,2000-004L,2000-01-27," Vandenberg AFB, United States", Minuteman-2,unknown
+78,Picosat 8,2000-004M,2000-01-27," Vandenberg AFB, United States", Minuteman-2,unknown
+79,Progress M-43,2000-064A,2000-10-16," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Soyuz-U,Russian Space Agency (Russia)
+80,Progress M1-1,2000-005A,2000-02-01," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Soyuz-U,Unknown (Kazakhstan)
+81,Progress M1-2,2000-021A,2000-04-25," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Soyuz-U,Unknown (Kazakhstan)
+82,Progress M1-3,2000-044A,2000-08-06," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Soyuz-U,Unknown (Kazakhstan)
+83,Progress M1-4,2000-073A,2000-11-16," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Soyuz-U,Unknown (Russia)
+84,Quickbird 1,2000-074A,2000-11-20," Plesetsk, Russia", Cosmos,Unknown (United States)
+85,Raduga 1-5,2000-049A,2000-08-28," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Proton-K,Unknown (Russia)
+86,SAC-C,2000-075B,2000-11-21," Vandenberg AFB, United States", Delta II,"National Aeronautics and Space Administration (United States); Danish Space Research Institute (Denmark); National Commission of Space Activities (CONAE) (Argentina); Centre National d'Etudes Spatiales (France); Instituto Nacional de Pesquisas Espaciais, Brazil (Brazil); Agenzia Spaziale Italiana (Italy)"
+87,Saudisat 1A,2000-057A,2000-09-26," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Dnepr,Unknown (Saudi Arabia)
+88,Saudisat 1B,2000-057E,2000-09-26," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Dnepr,unknown
+89,SESAT 1,2000-019A,2000-04-17," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Proton-K,unknown
+90,Simsat 1,2000-026A,2000-05-16," Plesetsk, Russia", Rokot,Unknown (Russia)
+91,Simsat 2,2000-026B,2000-05-16," Plesetsk, Russia", Rokot,Unknown (Russia)
+92,Sirius 1,2000-035A,2000-06-30," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Proton-K,Unknown (United States)
+93,Sirius 2,2000-051A,2000-09-05," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Proton-K,Unknown (United States)
+94,Sirius 3,2000-077A,2000-11-30," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Proton-K,Unknown (United States)
+95,Snap 1,2000-033C,2000-06-28," Plesetsk, Russia", Cosmos,Unknown (Russia)
+96,Soyuz-TM 30,2000-018A,2000-04-04," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Soyuz,Unknown (Kazakhstan)
+97,Soyuz-TM 31,2000-070A,2000-10-31," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Soyuz-U,Unknown (Russia)
+98,STRV 1C,2000-072C,2000-11-16," Kourou, French Guiana", Ariane 5,unknown
+99,STRV 1D,2000-072D,2000-11-16," Kourou, French Guiana", Ariane 5,unknown
+100,STS  92,2000-062A,2000-10-11," Cape Canaveral, United States", Shuttle,Unknown (United States)
+101,STS  99,2000-010A,2000-02-11," Cape Canaveral, United States", Shuttle,Unknown (United States)
+102,STS 101,2000-027A,2000-05-19," Cape Canaveral, United States", Shuttle,Unknown (United States)
+103,STS 106,2000-053A,2000-09-08," Cape Canaveral, United States", Shuttle,Unknown (United States)
+104,STS 97,2000-078A,2000-12-01," Cape Canaveral, United States", Shuttle,unknown
+105,Superbird 4,2000-012A,2000-02-18," Kourou, French Guiana", Ariane,Unknown (Japan)
+106,TDRS-H,2000-034A,2000-06-30," Cape Canaveral, United States", Atlas 2A,NASA-Office of Tracking and Data Acquisition (United States)
+107,Tethered Picosats,2000-004H,2000-01-27," Vandenberg AFB, United States", Minuteman-2,unknown
+108,Thuraya 1,2000-066A,2000-10-21," Odyssey (Sea Launch Platform), ", Zenit 3SL,Unknown (United Arab Emirates)
+109,Tiungsat 1,2000-057D,2000-09-26," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Dnepr,Unknown (Malaysia)
+110,TSX 5,2000-030A,2000-06-07," Vandenberg AFB, United States", Pegasus,Unknown (United States)
+111,Tzinghua 1,2000-033B,2000-06-28," Plesetsk, Russia", Cosmos,Unknown (Peoples Republic of China)
+112,Unisat 1,2000-057C,2000-09-26," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Dnepr,Unknown (Italy)
+113,USA 148,2000-001A,2000-01-25," Cape Canaveral, United States", Atlas 2,Unknown (United States)
+114,USA 152,2000-047A,2000-08-17," Vandenberg AFB, United States", Titan 4B,National Reconnaissance Office (United States)
+115,USA 153,2000-065A,2000-10-20," Cape Canaveral, United States", Atlas 2A,Unknown (United States)
+116,USA 155,2000-080A,2000-12-06," Cape Canaveral, United States", Atlas 2AS,unknown
+117,Zhangguo Ziyaun 2,2000-050A,2000-09-01," Taiyuan, Peoples Republic of China", Long March 4B,Unknown (Peoples Republic of China)
+118,Zhonxing 22,2000-003A,2000-01-25," Xichang, Peoples Republic of China", Long March 3A,Unknown (Peoples Republic of China)
+119,Zvezda,2000-037A,2000-07-12," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Proton-K,Unknown (Russia)

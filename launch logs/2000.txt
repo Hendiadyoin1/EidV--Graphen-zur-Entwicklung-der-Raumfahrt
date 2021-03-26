@@ -1,0 +1,221 @@
+========================================================
+             SPACE LAUNCH REPORT
+
+       2000 LAUNCH VEHICLE/SITE STATISTICS
+========================================================
+       by Ed Kyle      
+========================================================
+
+       2000 LAUNCH VEHICLE SUMMARY
+
+Calendar year launch vehicle results, ranked by number 
+of successes, with launch total as the first tiebreaker 
+and vehicle payload mass as the second tiebreaker.  
+Low Earth Orbit (LEO) missions have orbital periods 
+less than 2 hours. Deep Space missions include 
+heliocentric, planetocentric, and solar system escape 
+trajectories.
+
+=========================================================   
+Vehicle            Overall           By Orbit Type   
+                   Success/      Earth-Orbit Earth-Escape   
+                   Attempts       LEO   >LEO  Deep Space   
+=========================================================   
+Proton-K(DM/Briz M)  14/14*       1/1   13/13*   ---    
+Soyuz-U(Ikar/Fregat) 13/13       10/10*  3/3    
+Ariane 4              8/8         ---    8/8    
+Atlas 2A(S)           7/7         ---    7/7   
+Delta 2               6/6         2/2    4/4   
+STS                   5/5         5/5    ---   
+Ariane 5              4/4         ---    4/4  
+CZ-3A                 3/3         ---    3/3     
+Kosmos-3M             2/3         2/3    ---   
+Zenit 3SL             2/3         ---    2/3    
+Titan 4B              2/2         1/1    1/1    
+Zenit 2               2/2         2/2    ---   
+Minotaur              2/2         2/2    ---    
+Pegasus (Std/XL)      2/2         2/2    ---    
+Atlas 3A              1/1         ---    1/1    
+Delta 3               1/1         ---    1/1    
+CZ-4B                 1/1         1/1    ---    
+CZ-3                  1/1         ---    1/1    
+Dnepr-1               1/1         1/1    ---    
+Titan 23G             1/1         1/1    ---    
+Rokot/Briz KM         1/1         1/1    ---  
+Start-1               1/1         1/1    ---    
+Taurus                1/1         1/1    ---   
+M-5                   0/1         0/1    ---  
+Tsyklon 3             0/1         0/1    ---    
+----------------------------------------------------------    
+Total                81/85       33/36  48/49   ---    
+=========================================================   
+* Denotes YTD Leader in Category 
+
+
+2000 Launch Site Standings 
+
+Launch sites, ranked by number of orbital launch 
+attempts during 2000.
+
+=========================================================    
+  Site                         Overall     
+                               Success/     
+                               Attempts     
+=========================================================     
+Baikonur, Kazakhstan            30/30    
+Cape Canaveral, Florida         14/14     
+Kourou, French Guyana           12/12   
+Vandenberg AFB, California       8/8   
+Kennedy Space Center, Florida    5/5    
+Plesetsk, Russia                 3/5     
+Xi Chang, China                  4/4     
+Sea Launch Platform Odyssey      2/3    
+Taiyuan, China                   1/1    
+Kwajalien, Marshall Is.          1/1  
+Svobodny, Russia                 1/1    
+Kagoshima, Japan                 0/1     
+========================================================= 
+
+=================================================================================
+                         SPACE LAUNCH REPORT
+
+                 2000 ORBITAL/SUBORBITAL LAUNCH LOG
+=================================================================================
+                           by Ed Kyle             
+=================================================================================
+
+                2000 ORBITAL SPACE LAUNCH LOG
+
+DATE       VEHICLE          ID      PAYLOAD                      SITE*   ORBIT**
+----------------------------------------------------------------------------------
+01/21/00   Atlas 2A         AC-138  DSCS 3-11(B8)                CC 36A     GTO
+01/25/00   Ariane 42L       L494    Galaxy 10R (V126)            KO 2       GTO
+01/25/00   CZ-3A            CZ3A-4  Zhongxing 22                 XC 1       GTO+
+01/27/00   Minotaur         SLV-1   JAWSAT                        V CLF     LEO/P
+02/01/00   Soyuz-U                  Progress M1-1/Mir boost      TB 1       LEO
+02/03/00   Atlas 2AS        AC-158  Hispasat 1C                  CC 36B     GTO+
+02/03/00   Zenit 2          Z2-33   Tselina-2                    TB 45      LEO
+02/08/00   Delta 2-7420     D276    Globalstar 7 (4)             CC 17B     LEO
+02/08/00   Soyuz-U/Fregat   ST-07   Dummysat/IRDT                TB 31      LEO
+02/10/00   M-5              M-5-4   Astro-E (LEO)                KA MS     (FTO)(1)
+02/11/00   Endeavour        OV105   STS-99/SRTM                  KC 39A     LEO
+02/12/00   Proton-K/DM3     399-02  Garuda-1                     TB 81/23   GEO+
+02/18/00   Ariane 44LP      L495    Superbird 4 (V127)           KO 2       GTO
+03/12/00   Proton-K/DM-2M   399-01  Express A2                   TB 200/39  GEO
+03/12/00   Taurus (Darpa)   T5      Multispectral Thrm Imager     V 576E    LEO/P
+03/12/00   Zenit 3SL/DMSL   SL3     ICO F1                       PO OLP    (FTO)(2)
+03/20/00   Soyuz-U/Fregat   ST-08   Cluster-2 dummysats          TB 31      EEO
+03/21/00   Ariane 5G        L505    Insat 3B/Asiastar (V128)     KO 3       GTO
+03/25/00   Delta 2-7326     D277    IMAGE                         V 2W      EEO
+04/04/00   Soyuz-U                  Soyuz TM-30 (Mir-28 Crew)    TB 1       LEO
+04/17/00   Proton-K/DM-2M   397-01  Sesat                        TB 200/39  GEO
+04/19/00   Ariane 42L       L496    Galaxy 4-R  (V129)           KO 2       GTO
+04/25/00   Soyuz-U                  Progress M1-2/Mir supply     TB 1       LEO
+05/03/00   Atlas 2A         AC-137  GOES-L                       CC 36A     GTO+
+05/03/00   Soyuz-U                  Kosmos 2370                  TB 1       LEO
+05/08/00   Titan 402B       B-29    IUS-22/DSP-20                CC 40      GEO
+05/11/00   Delta 2-7925     D278    GPS 2R-4                     CC 17A     MTO
+05/16/00   Rokot/Briz KM    KM1     Simsat 1,2 (Demo)            PL 133     LEO
+05/19/00   Atlantis         OV104   STS-101/ISS-2A.2A            KC 39A     LEO
+05/24/00   Atlas 3A         AC-201  Eutelsat W4                  CC 36B     GTO+
+06/06/00   Proton-K/BrizM   392-01  Gorizont 45                  TB 81/24   GEO
+06/07/00   Pegasus XL               TSX-5                         V L1011   LEO
+06/24/00   Proton-K/DM-2M   394-02  Express 3A                   TB 200/39  GEO
+06/25/00   CZ-3             CZ3-13  Fengyun 2                    XC 1       GTO
+06/28/00   Kosmos 3M                NadezhdaM/SNAP1/Tsinghua1    PL 132     SSO
+06/30/00   Atlas 2A         AC-139  TDRS-H (8)                   CC 36A     GTO-
+06/30/00   Proton-K/DM3     400-01  Sirius                       TB 81/24   EEO+
+07/04/00   Proton-K/DM-2    389-02  Kosmos-2371                  TB 200/39  GEO
+07/12/00   Proton-K                 ISS-1R/Zvezda                TB 81/23   LEO
+07/14/00   Atlas 2AS        AC-161  Echostar 6                   CC 36B     GTO+
+07/15/00   Kosmos 3M                CHAMP/MITA/BIRD              PL 132     LEO
+07/16/00   Delta 2-7925     D279    GPS 2R-5                     CC 17A     MTO
+07/16/00   Soyuz-U/Fregat   ST-09   Cluster 2 (FM6/FM7)          TB 31      EEO
+07/19/00   Minotaur         SLV-2   Mightysat 2.1                 V CLF     LEO/P
+07/28/00   Zenit 3SL/DMSL   SL4     PanAmSat 9                   PO OLP     GTO
+08/06/00   Soyuz-U                  ISS-1P/Progress M1-3         TB 1       LEO
+08/09/00   Soyuz-U/Fregat   ST-10   Cluster 2 (FM5/FM8)          TB 31      EEO
+08/17/00   Ariane 44LP      L497    BrsilsatB4/Nilesat12(V131)   KO 2       GTO
+08/17/00   Titan 403B       B-28    NRO Lacrosse/Onyx             V 4E      LEO
+08/23/00   Delta 3-8930     D280    DM-F3 (dummysat)             CC 17B     GTO-
+08/28/00   Proton-K/DM-2    401-02  Kosmos 2372                  TB 81/24   GEO
+09/01/00   CZ-4B            CZ4B-3  ZY-2                         TY         LEO/S
+09/05/00   Proton-K/DM3             Sirius 2                     TB 81/23   EEO
+09/06/00   Ariane 44LP      L498    Eutelsat W1 (V-132)          KO 2       GTO
+09/08/00   Atlantis         OV104   ISS-04-2A.2b/STS-106         KC 39B     LEO
+09/14/00   Ariane 5G        L506    Astra-2B/GE-7 (V130)         KO 3       GTO
+09/21/00   Titan 23G        G-13    NOAA-L(16)                    V 4W      LEO/S
+09/25/00   Zenit 2          Z2-34   Kosmos 2372                  TB 45      LEO
+09/26/00   Dnepr 1          DN2     Saudisat 1A/B ..             TB 109     LEO
+09/29/00   Soyuz-U                  Kosmos 2373                  TB         LEO
+10/01/00   Proton-K/DM3     401-01  GE-1A                        TB 81/23   GTO+
+10/06/00   Ariane 42L       L499    N-Sat 110 (V133)             KO 2       GTO
+10/09/00   Pegasus Std      P010    HETE-2                       KW L1011   LEO
+10/11/00   Discovery        OV103   STS-92/ISS-3A                KC 39A     LEO
+10/13/00   Proton-K/DM-2            3 x GLONASS                  TB 200/39  MEO
+10/16/00   Soyuz-U                  Progress M43 (Mir)           TB 1       LEO
+10/20/00   Atlas 2A         AC-140  DSCS B11                     CC 36A     GTO
+10/20/00   Proton-K/DM3             GE-6                         TB 81/23   GTO+
+10/21/00   Zenit 3SL/DMSL   SL5     Thuraya 1                    PO OLP     GTO
+10/29/00   Ariane 44LP      L4100   Eur*Star FM1(V134)           KO 2       GTO
+10/30/00   CZ-3A            CZ3A5   Beidou (navsat)              XC 1       EEO
+10/31/00   Soyuz-U                  Soyuz TM-31/ISS-2R           TB 1       LEO
+11/10/00   Delta 2-7925     D281    GPS 2R-6                     CC 17A     MTO
+11/16/00   Ariane 5G        A507    PAS-1R/AmSat-3D              KO 3       GTO
+11/16/00   Soyuz-U                  Progress M1-4                TB 1       LEO
+11/20/00   Kosmos 3M                QuickBird 1                  PL 132    (FTO)(3)
+11/21/00   Ariane 44L       A4101   Anik F1                      KO 2       GTO
+11/21/00   Delta 2-7320     D282    EO-1/SAC-C/Munin              V 2W      LEO/S
+11/30/00   Proton-K/DM3     402-02  Sirius 3                     TB 81/23   HTO
+12/01/00   Endeavour        OV105   STS-97/ISS-4A/P6             KC 39B     LEO
+12/05/00   Start-1                  EROS A1                      SV         LEO/S
+12/06/00   Atlas 2AS        AC157   NRO MLV11                    CC 36A     GTO
+12/20/00   Ariane 5G        A508    Astra 2D/GE-8                KO 3       GTO
+12/20/00   CZ-3A            CZ3A6   Beidou 2                     XC         GTO
+12/27/00   Tsyklon 3                6 x Strela 3                 PL 32     (FTO)(4)
+=================================================================================
+
+         
+(1) 1st stg motor nozzle fail T+55sec
+(2) Zenit 2nd stg shutdown early
+(3) Second stage failure
+(4) Third stage failure
+
+*Site Code:
+
+BA = Barents Sea (Sub Launch), Russia
+CC = Cape Canaveral, FL, USA  
+JQ = Ji Quan, China 
+KA = Kagoshima, Japan 
+KO = Kourou, French Guyana
+KC = Kennedy Space Center, FL, USA
+KW = Kwajalein, Marshall Is.
+PA = Palamchima, Isreal 
+PL = Plesetsk Northern Cosmodrome, Russia
+PO = Pacific Ocean Range 154W-0N
+SR = Satish Dhawan Space Center, Sriharikota, India
+TA = Tanageshima-Yoshinobu, Japan 
+TB = Tyuratam/Baikonur, Kazakstahn
+TY = Taiyuan, China 
+WI = Wallops Island 
+XC = Xi Chang, China 
+V = Vandenberg AFB, CA, USA
+
+**Orbit Code:
+
+EEO/M = Molynia (12-hr) Elliptical Earth Orbit
+FTO = Failed to Orbit
+FSO = Failed Suborbital
+GTO = Geosynchronous Transfer Orbit
+GTO+ = Supersynchronous Transfer Orbit
+GTO- = Subsynchronous Transfer Orbit
+GEO = Geosynchronous Orbit
+HCO = Heliocentric (solar) Orbit
+HTO = High Earth Transfer Orbit
+LEO = Low Earth Orbit
+LEO/S = Sun Synchronous Low Earth Orbit
+LEO/P = Polar Low Earth Orbit
+MEO = Medium Earth Orbit
+MTO = Medium Earth Transfer Orbit 
+
+=========================================================================

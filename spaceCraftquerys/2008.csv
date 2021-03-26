@@ -1,0 +1,103 @@
+,Spacecraft Name,NSSDCA ID,Launch Date,Site,Vehicle,Funder
+0,AAUSAT 2,2008-021F,2008-04-28," Sriharikota, India", PSLV-CA,Aalborg University (Denmark)
+1,AMC 14,2008-011A,2008-03-14," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Proton-M,Unknown (United States)
+2,AMC 21,2008-038B,2008-08-14," Kourou, French Guiana", Ariane 5 ECA,Societe Europeenne des Satellites (Luxembourg) (United States)
+3,Amos 3,2008-022A,2008-04-28," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Zenit 3SLB,Unknown (Israel)
+4,Astra 1M,2008-057A,2008-11-05," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Proton-M,Societe Europeenne des Satellites (Luxembourg) (Luxembourg)
+5,Badr 6,2008-034B,2008-07-07," Kourou, French Guiana", Ariane 5 ECA,Arabsat Satellite Communications (International)
+6,BX 1,2008-047G,2008-09-25," Jiuquan, Peoples Republic of China", Long March 2F,Unknown (Peoples Republic of China)
+7,C/NOFS,2008-017A,2008-04-16," Kwajalein, Republic of the Marshall Islands", Pegasus,Department of Defense (United States)
+8,CanX 2,2008-021H,2008-04-28," Sriharikota, India", PSLV-CA,University of Toronto (Canada)
+9,CanX 6,2008-021B,2008-04-28," Sriharikota, India", PSLV-CA,University of Toronto (Canada)
+10,CartoSat 2A,2008-021A,2008-04-28," Sriharikota, India", PSLV-CA,Indian Space Research Organization (India)
+11,Chandrayaan 1 Lunar Orbiter,2008-052A,2008-10-22," Sriharikota, India", PSLV-XL,Indian Space Research Organization (India)
+12,Chinasat 9,2008-028A,2008-06-09," Xichang, Peoples Republic of China", Long March 3B,unknown
+13,Chuang Xin 1-02,2008-056B,2008-11-05," Jiuquan, Peoples Republic of China", Long March 2D,Unknown (Peoples Republic of China)
+14,Ciel 2,2008-063A,2008-12-10," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Proton-M,Unknown (Canada)
+15,COMPASS 1,2008-021E,2008-04-28," Sriharikota, India", PSLV-CA,Aachen University of Technology (Federal Republic of Germany)
+16,Cosmos 2437,2008-025B,2008-05-23," Plesetsk, Russia", Rokot,Unknown (Russia)
+17,Cosmos 2438,2008-025C,2008-05-23," Plesetsk, Russia", Rokot,Unknown (Russia)
+18,Cosmos 2439,2008-025D,2008-05-23," Plesetsk, Russia", Rokot,Unknown (Russia)
+19,Cosmos 2440,2008-033A,2008-06-27," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Proton-K,Unknown (Russia)
+20,Cosmos 2441,2008-037A,2008-07-26," Plesetsk, Russia", Soyuz-2.1b,unknown
+21,Cosmos 2442,2008-046A,2008-09-25," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Proton-M,unknown
+22,Cosmos 2443,2008-046B,2008-09-25," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Proton-M,unknown
+23,Cosmos 2444,2008-046C,2008-09-25," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Proton-M,unknown
+24,Cosmos 2445,2008-058A,2008-11-14," Plesetsk, Russia", Soyuz-U,Unknown (Russia)
+25,Cosmos 2446,2008-062A,2008-12-02," Plesetsk, Russia", Molniya-M,Unknown (Russia)
+26,Cosmos 2447,2008-067A,2008-12-25," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Proton-M,Unknown (Russia)
+27,Cosmos 2448,2008-067C,2008-12-25," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Proton-M,Unknown (Russia)
+28,Cosmos 2449,2008-067B,2008-12-25," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Proton-M,Unknown (Russia)
+29,CUTE-1.7,2008-021C,2008-04-28," Sriharikota, India", PSLV-CA,Tokyo Institute of Technology (Japan)
+30,Delfi-C3,2008-021G,2008-04-28," Sriharikota, India", PSLV-CA,Delfi Technical University (The Netherlands)
+31,DemoSat,2008-048A,2008-09-28," Kwajalein, Republic of the Marshall Islands", Falcon 1,National Aeronautics and Space Administration (United States)
+32,DirecTV 11,2008-013A,2008-03-19," Odyssey (Sea Launch Platform), ", Zenit 3SL,Unknown (United States)
+33,Echostar 11,2008-035A,2008-07-16," Odyssey (Sea Launch Platform), ", Zenit 3SL,unknown
+34,Express AM33,2008-003A,2008-01-28," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Proton-M,Russian Satellite Communications Company (Russia)
+35,Fengyun 2E,2008-066A,2008-12-23," Xichang, Peoples Republic of China", Long March 3A,Unknown (Russia)
+36,Fengyun 3A,2008-026A,2008-05-27," Taiyuan, Peoples Republic of China", Long March 4C,Unknown (Peoples Republic of China)
+37,Fermi Gamma-ray Space Telescope,2008-029A,2008-06-11," Cape Canaveral, United States", Delta II,National Aeronautics and Space Administration (United States)
+38,Galaxy 18,2008-024A,2008-05-21," Odyssey (Sea Launch Platform), ", Zenit 3SL,Unknown (United States)
+39,Galaxy 19,2008-045A,2008-09-24," Odyssey (Sea Launch Platform), ", Zenit 3SL,International Telecommunications Satellite Corporation (United States)
+40,GeoEye 1,2008-042A,2008-09-06," Vandenberg AFB, United States", Delta II,Unknown (United States)
+41,GIOVE-B,2008-020A,2008-04-26," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Soyuz-Fregat,European Space Agency (International)
+42,Hot Bird 9,2008-065A,2008-12-20," Kourou, French Guiana", Ariane 5,European Telecommunications Satellite Consortium (International)
+43,Huan Jing 1A,2008-041A,2008-09-06," Taiyuan, Peoples Republic of China", Long March 2C,Unknown (Peoples Republic of China)
+44,Huan Jing 1B,2008-041B,2008-09-06," Taiyuan, Peoples Republic of China", Long March 2C,Unknown (Peoples Republic of China)
+45,IBEX,2008-051A,2008-10-19," Kwajalein, Republic of the Marshall Islands", Pegasus XL,National Aeronautics and Space Administration (United States)
+46,ICO G1,2008-016A,2008-04-14," Cape Canaveral, United States", Atlas V,Unknown (United States)
+47,IMS 1,2008-021D,2008-04-28," Sriharikota, India", PSLV-CA,Indian Space Research Organization (India)
+48,Inmarsat 4-F3,2008-039A,2008-08-18," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Proton-M,Inmarsat (International)
+49,Jason 2,2008-032A,2008-06-20," Vandenberg AFB, United States", Delta II,Centre National d'Etudes Spatiales (France); National Aeronautics and Space Administration (United States); National Oceanic and Atmospheric Administration (United States); EUMETSAT (International)
+50,Jules Verne,2008-008A,2008-03-09," Kourou, French Guiana", Ariane 5,European Space Agency (International)
+51,Kizuna,2008-007A,2008-02-23," Tanegashima, Japan", H-2A,Unknown (Japan)
+52,Navstar 62,2008-012A,2008-03-15," Cape Canaveral, United States", Delta II,Unknown (United States)
+53,Nimiq 4,2008-044A,2008-09-19," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Proton-M,"Telesat Canada Ltd., Ottawa (Canada)"
+54,Orbcomm FM-29,2008-031C,2008-06-19," Kapustin Yar, Russia", Kosmos-3M,unknown
+55,Orbcomm FM-37,2008-031E,2008-06-19," Kapustin Yar, Russia", Kosmos-3M,unknown
+56,Orbcomm FM-38,2008-031A,2008-06-19," Kapustin Yar, Russia", Kosmos-3M,unknown
+57,Orbcomm FM-39,2008-031D,2008-06-19," Kapustin Yar, Russia", Kosmos-3M,unknown
+58,Orbcomm FM-40,2008-031F,2008-06-19," Kapustin Yar, Russia", Kosmos-3M,unknown
+59,Orbcomm FM-41,2008-031B,2008-06-19," Kapustin Yar, Russia", Kosmos-3M,unknown
+60,Progress M-01M,2008-060A,2008-11-26," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Soyuz-U,Unknown (Russia)
+61,Progress M-63,2008-004A,2008-02-05," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Soyuz,Russian Space Agency (Russia)
+62,Progress M-64,2008-023A,2008-05-14," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Soyuz-U,Unknown (Russia)
+63,Progress M-65,2008-043A,2008-09-10," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Soyuz,Unknown (Russia)
+64,Protostar 1,2008-034A,2008-07-07," Kourou, French Guiana", Ariane 5 ECA,unknown
+65,PSSC,2008-059B,2008-11-15," Cape Canaveral, United States", Shuttle,United States Air Force Academy (United States)
+66,RapidEye-A,2008-040A,2008-08-29," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Dnepr,RapidEye AG Corporation (Federal Republic of Germany)
+67,RapidEye-B,2008-040B,2008-08-29," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Dnepr,RapidEye AG Corporation (Federal Republic of Germany)
+68,RapidEye-C,2008-040C,2008-08-29," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Dnepr,RapidEye AG Corporation (Federal Republic of Germany)
+69,RapidEye-D,2008-040D,2008-08-29," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Dnepr,RapidEye AG Corporation (Federal Republic of Germany)
+70,RapidEye-E,2008-040E,2008-08-29," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Dnepr,RapidEye AG Corporation (Federal Republic of Germany)
+71,Rubin 8,2008-021K,2008-04-28," Sriharikota, India", PSLV-CA,COSMOS International (Federal Republic of Germany)
+72,SAR Lupe 4,2008-014A,2008-03-27," Plesetsk, Russia", Kosmos-3M,"Federal Ministry of Defense, Germany (Federal Republic of Germany)"
+73,SAR Lupe 5,2008-036A,2008-07-22," Plesetsk, Russia", Kosmos-3M,unknown
+74,SEEDS,2008-021J,2008-04-28," Sriharikota, India", PSLV-CA,Nihon University (Japan)
+75,Shenzhou 7,2008-047A,2008-09-25," Jiuquan, Peoples Republic of China", Long March 2F,China National Space Administration (Peoples Republic of China)
+76,Shijian 6E,2008-053A,2008-10-25," Taiyuan, Peoples Republic of China", Long March 4B,China National Space Administration (Peoples Republic of China)
+77,Shijian 6F,2008-053B,2008-10-25," Taiyuan, Peoples Republic of China", Long March 4B,China National Space Administration (Peoples Republic of China)
+78,Shiyuan 3,2008-056A,2008-11-05," Jiuquan, Peoples Republic of China", Long March 2D,Unknown (Peoples Republic of China)
+79,SkyMed 3,2008-054A,2008-10-25," Vandenberg AFB, United States", Delta II,Unknown (Italy)
+80,Skynet 5C,2008-030A,2008-06-12," Kourou, French Guiana", Ariane 5 ECA,unknown
+81,Soyuz-TMA 12,2008-015A,2008-04-08," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Soyuz FG,Unknown (Russia)
+82,Soyuz-TMA 13,2008-050A,2008-10-12," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Soyuz FG,Unknown (Russia)
+83,Star One C2,2008-018B,2008-04-18," Kourou, French Guiana", Ariane 5 ECA,Unknown (Brazil)
+84,STS 122,2008-005A,2008-02-07," Cape Canaveral, United States", Shuttle,Unknown (United States)
+85,STS 123,2008-009A,2008-03-11," Cape Canaveral, United States", Shuttle,Unknown (United States)
+86,STS 124,2008-027A,2008-05-31," Cape Canaveral, United States", Shuttle,Unknown (United States)
+87,STS 126,2008-059A,2008-11-15," Cape Canaveral, United States", Shuttle,National Aeronautics and Space Administration (United States)
+88,Superbird 7,2008-038A,2008-08-14," Kourou, French Guiana", Ariane 5 ECA,Space Communication Corporation (SCC) (Japan)
+89,TecSAR,2008-002A,2008-01-21," Sriharikota, India", PSLV-CA,Unknown (Israel)
+90,THEOS,2008-049A,2008-10-01," Yasni, Russia", Dnepr,Unknown (Thailand)
+91,Thor 2R,2008-006A,2008-02-11," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Proton-M,Unknown (Norway)
+92,Thuraya 3,2008-001A,2008-01-15," Odyssey (Sea Launch Platform), ", Zenit 3SL,Unknown (United Arab Emirates)
+93,Tianlian 1-01,2008-019A,2008-04-25," Xichang, Peoples Republic of China", Long March 3C,China National Space Administration (Peoples Republic of China)
+94,Turksat 3A,2008-030B,2008-06-12," Kourou, French Guiana", Ariane 5 ECA,unknown
+95,USA 200,2008-010A,2008-03-13," Vandenberg AFB, United States", Atlas V,National Reconnaissance Office (United States); National Aeronautics and Space Administration (United States); Department of Energy (United States)
+96,VeneSat 1,2008-055A,2008-10-29," Xichang, Peoples Republic of China", Long March 3B,Unknown (Venezuela)
+97,Vinasat 1,2008-018A,2008-04-18," Kourou, French Guiana", Ariane 5 ECA,Unknown (Vietnam)
+98,W2M,2008-065B,2008-12-20," Kourou, French Guiana", Ariane 5,European Telecommunications Satellite Consortium (International)
+99,Yaogan 4,2008-061A,2008-12-01," Jiuquan, Peoples Republic of China", Long March 2D,Unknown (Peoples Republic of China)
+100,Yaogan 5,2008-064A,2008-12-15," Taiyuan, Peoples Republic of China", Long March 4B,Unknown (Peoples Republic of China)
+101,Yubileiny,2008-025A,2008-05-23," Plesetsk, Russia", Rokot,Unknown (Russia)

@@ -1,0 +1,20 @@
+,Vehicle,Launches,Failures,LEO,LEO failures,>LEO,>LEO failures,Deep,Deep failures
+0,R-7(Soyuz/Molniya),12,0,11,0,1,0,0,0
+1,Chang Zheng,10,0,4,0,6,0,0,0
+2,Delta 2,8,0,3,0,3,0,2,0
+3,Proton,7,1,0,0,7,1,0,0
+4,Ariane 5,6,0,0,0,6,0,0,0
+5,Atlas 5,4,1,1,0,3,1,0,0
+6,STS,3,0,3,0,0,0,0,0
+7,Dnepr,3,0,3,0,0,0,0,0
+8,Kosmos 3M,3,0,3,0,0,0,0,0
+9,H-2A,2,0,1,0,1,0,0,0
+10,PSLV,2,0,2,0,0,0,0,0
+11,Delta 4,1,0,0,0,1,0,0,0
+12,Zenit 2M,1,0,1,0,0,0,0,0
+13,Minotaur 1,1,0,1,0,0,0,0,0
+14,Pegasus XL,1,0,1,0,0,0,0,0
+15,Shavit,1,0,1,0,0,0,0,0
+16,Zenit 3SL/DMSL,1,1,0,0,1,1,0,0
+17,GSLV,1,1,0,0,1,1,0,0
+18,Falcon 1,1,1,1,1,0,0,0,0

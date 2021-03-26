@@ -1,0 +1,133 @@
+,Spacecraft Name,NSSDCA ID,Launch Date,Site,Vehicle,Funder
+0,AEHF 2,2012-019A,2012-05-04," Cape Canaveral, United States", Ariane 5,unknown
+1,AENEAS,2012-048C,2012-09-13," Vandenberg AFB, United States", Atlas V 401,Department of Defense (United States)
+2,AEROCUBE 4,2012-048M,2012-09-13," Vandenberg AFB, United States", Atlas V 401,unknown
+3,AEROCUBE 4.5A,2012-048K,2012-09-13," Vandenberg AFB, United States", Atlas V 401,unknown
+4,AEROCUBE 4.5B,2012-048L,2012-09-13," Vandenberg AFB, United States", Atlas V 401,unknown
+5,ALMASat 1,2012-006B,2012-02-13," Kourou, French Guiana", Vega,unknown
+6,Apstar 7,2012-013A,2012-03-31," Xichang, Peoples Republic of China", Long March 3B,Unknown (Peoples Republic of China)
+7,Astra 2F,2012-051A,2012-09-28," Kourou, French Guiana", Ariane 5 ECA,Societe Europeenne des Satellites (Luxembourg) (Luxembourg)
+8,ATV 3,2012-010A,2012-03-23," Kourou, French Guiana", Ariane 5,European Space Agency (International)
+9,Beidou G5,2012-008A,2012-02-24," Xichang, Peoples Republic of China", Long March 3C,China National Space Administration (Peoples Republic of China)
+10,Beidou G6,2012-059A,2012-10-25," Xichang, Peoples Republic of China", Long March 2C,China National Space Administration (Peoples Republic of China)
+11,Beidou M3,2012-018A,2012-04-29," Xichang, Peoples Republic of China", Long March 3B,China National Space Administration (Peoples Republic of China)
+12,Beidou M4,2012-018B,2012-04-29," Xichang, Peoples Republic of China", Long March 3B,China National Space Administration (Peoples Republic of China)
+13,Beidou M5,2012-050A,2012-09-18," Xichang, Peoples Republic of China", Long March 3B,unknown
+14,Biedou M6,2012-050B,2012-09-18," Xichang, Peoples Republic of China", Long March 3B,unknown
+15,BKA 2,2012-039B,2012-07-22," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Soyuz FG,Unknown (Belarus)
+16,ChinaSat 12,2012-067A,2012-11-27," Xichang, Peoples Republic of China", Long March 3B,Unknown (Peoples Republic of China)
+17,Chinasat 2A,2012-028A,2012-05-26," Xichang, Peoples Republic of China", Long March 3B,Unknown (Peoples Republic of China)
+18,CINEMA,2012-048G,2012-09-13," Voyeikov (Ship), United States", Atlas V 401,unknown
+19,Cosmos 2479,2012-012A,2012-03-30," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Proton-K,Unknown (Russia)
+20,Cosmos 2480,2012-024A,2012-05-17," Plesetsk, Russia", Soyuz-U,Unknown (Russia)
+21,Cosmos 2481,2012-041A,2012-07-28," Plesetsk, Russia", Rokot/Breeze-KM,Russian Space Forces (Russia)
+22,CP5,2012-048F,2012-09-13," Vandenberg AFB, United States", Atlas V 401,unknown
+23,CSSWE,2012-048D,2012-09-13," Vandenberg AFB, United States", Atlas V 401,National Science Foundation (United States)
+24,CXBN,2012-048E,2012-09-13," Vandenberg AFB, United States", Atlas V 401,unknown
+25,Dragon C2/C3,2012-027A,2012-05-22," Cape Canaveral, United States", Falcon 9,National Aeronautics and Space Administration (United States)
+26,e-st@r,2012-006C,2012-02-13," Kourou, French Guiana", Vega,Unknown (Italy)
+27,Echostar 16,2012-065A,2012-11-20," Tyuratam (Baikonur Cosmodrome), United States", Proton-M,Echostar Communications Corporation (United States)
+28,Echostar 17,2012-035A,2012-07-05," Kourou, French Guiana", Ariane 5 ECA,unknown
+29,EUTELSAT 21B,2012-062B,2012-11-10," Kourou, French Guiana", Ariane 5 ECA,European Telecommunications Satellite Consortium (International)
+30,Eutelsat W5A,2012-069A,2012-12-03," Odyssey (Sea Launch Platform), International", Zenit 3SL,unknown
+31,ExactView 1,2012-039C,2012-07-22," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Soyuz FG,Unknown (Canada)
+32,Express MD2,2012-044B,2012-08-06," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Proton-M,Russian Satellite Communications Company (Russia)
+33,F 1,2012-038E,2012-07-21," Tanegashima, Japan", H-2B,Unknown (Vietnam)
+34,Fengniao 1,2012-064B,2012-11-18," Taiyuan, Peoples Republic of China", Long March 2C,Unknown (Peoples Republic of China)
+35,Fengyun 2F,2012-002A,2012-01-13," Xichang, Peoples Republic of China", Long March 3A,Unknown (Peoples Republic of China)
+36,FITSat,2012-038C,2012-07-21," Tanegashima, Japan", H-2B,Unknown (Japan)
+37,Galileo FM3,2012-055A,2012-10-12," Kourou, International", Soyuz-2.1b/Fregat,European Space Agency (International)
+38,Galileo FM4,2012-055B,2012-10-12," Kourou, French Guiana", Soyuz-2.1b/Fregat,European Space Agency (International)
+39,GCOM W1,2012-025A,2012-05-17," Tanegashima, Japan", H-2A,Japan Aerospace Exploration Agency (Japan)
+40,Gokturk 2,2012-073A,2012-12-18," Jiuquan, Turkey", Long March 2D,Unknown (Turkey)
+41,Goliat,2012-006D,2012-02-13," Kourou, French Guiana", Vega,Unknown (Romania)
+42,Gonets M03,2012-041B,2012-07-28," Plesetsk, Russia", Rokot/Breeze-KM,Russian Space Forces (Russia)
+43,Gonets M04,2012-041D,2012-07-28," Plesetsk, Russia", Rokot/Breeze-KM,Russian Space Forces (Russia)
+44,GSAT 10,2012-051B,2012-09-28," Kourou, French Guiana", Ariane 5 ECA,Indian Space Research Organization (India)
+45,Horyu 2,2012-025D,2012-05-17," Tanegashima, Japan", H-2A,Unknown (Japan)
+46,HTV 3,2012-038A,2012-07-21," Tanegashima, Japan", H-2B,Japan Aerospace Exploration Agency (Japan)
+47,Huan Jing 1C,2012-064A,2012-11-18," Taiyuan, Peoples Republic of China", Long March 2C,Unknown (Peoples Republic of China)
+48,HYLAS 2,2012-043B,2012-08-02," Kourou, French Guiana", Ariane 5 ECA,unknown
+49,Intelsat 19,2012-030A,2012-06-01," Odyssey (Sea Launch Platform), ", Zenit 3,unknown
+50,Intelsat 20,2012-043A,2012-08-02," Kourou, French Guiana", Ariane 5 ECA,International Telecommunications Satellite Corporation (International)
+51,Intelsat 21,2012-045A,2012-08-19," Odyssey (Sea Launch Platform), ", Zenit 3SL,International Telecommunications Satellite Corporation (International)
+52,Intelsat 22,2012-011A,2012-03-25," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Proton-M,International Telecommunications Satellite Corporation (International)
+53,Intelsat 23,2012-057A,2012-10-14," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Proton-M,Orbital Sciences Corp (United States)
+54,JCSAT 13,2012-023A,2012-05-15," Kourou, French Guiana", Ariane 5 ECA,Unknown (Japan)
+55,Kanopus-V 1,2012-039A,2012-07-22," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Soyuz FG,Unknown (Russia)
+56,KMS 3-2,2012-072A,2012-12-12," Sohae, North Korea", Unha,Unknown (North Korea)
+57,Kompsat 3,2012-025B,2012-05-17," Tanegashima, Japan", H-2A,Korea Aerospace Research Institute (South Korea)
+58,LARES,2012-006A,2012-02-13," Kourou, French Guiana", Vega,Agenzia Spaziale Italiana (Italy)
+59,Luch 5B,2012-061A,2012-11-02," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Proton-M,unknown
+60,Masat 1,2012-006E,2012-02-13," Kourou, French Guiana", Vega,Unknown (Hungary)
+61,Meridian 6,2012-063A,2012-11-14," Plesetsk, Russia", Soyuz-2.1a,Unknown (Russia)
+62,METOP-B,2012-049A,2012-09-17," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Soyuz-2.1a,EUMETSAT (International)
+63,Mexsat 3,2012-075B,2012-12-19," Kourou, French Guiana", Ariane 5 ECA,Unknown (Mexico)
+64,MKA-FKI 1,2012-039E,2012-07-22," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Soyuz FG,unknown
+65,MSG 3,2012-035B,2012-07-05," Kourou, French Guiana", Ariane 5 ECA,unknown
+66,MUOS 1,2012-009A,2012-02-24," Cape Canaveral, United States", Atlas V,US Naval Research Laboratory (United States)
+67,Navid,2012-005A,2012-02-03," Semnan, Iran", Safir,Iranian Space Agency (Iran)
+68,Navstar 67,2012-053A,2012-10-04," Cape Canaveral, United States", Delta IV,Department of Defense-Department of the Air Force (United States)
+69,Nimiq 6,2012-026A,2012-05-17," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Proton-M,"Telesat Canada Ltd., Ottawa (Canada)"
+70,NuSTAR,2012-031A,2012-06-13," Kwajalein, Republic of the Marshall Islands", Pegasus XL,unknown
+71,Object J,2012-006J,2012-02-13," Kourou, French Guiana", Vega,Unknown (Italy)
+72,ORBCOMM OG2,2012-054B,2012-10-08," Cape Canaveral, United States", Falcon 9,National Aeronautics and Space Administration (United States)
+73,OTV 3,2012-071A,2012-12-11," Cape Canaveral, United States", Atlas V,Department of Defense-Department of the Air Force (United States)
+74,Pleiades 1B,2012-068A,2012-12-02," Kourou, French Guiana", Soyuz-2.1a/Fregat,unknown
+75,Progress M-14M,2012-004A,2012-01-25," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Soyuz-U,Unknown (Russia)
+76,Progress M-15M,2012-015A,2012-04-20," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Soyuz-U,unknown
+77,Progress-M 16M,2012-042A,2012-08-01," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Soyuz,Russian Space Agency (Kazakhstan)
+78,Progress-M 17M,2012-060A,2012-10-31," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Soyuz-U,Russian Space Agency (Kazakhstan)
+79,PROITERES,2012-047B,2012-09-09," Sriharikota, Japan", PSLV-CA,unknown
+80,PW Sat,2012-006G,2012-02-13," Kourou, French Guiana", Vega,Unknown (Poland)
+81,Raiko,2012-038B,2012-07-21," Tanegashima, Japan", H-2B,Unknown (Japan)
+82,Re,2012-048H,2012-09-13," Vandenberg AFB, United States", Atlas V 401,unknown
+83,RISAT 1,2012-017A,2012-04-26," Sriharikota, India", PSLV-XL,Indian Space Research Organization (India)
+84,Robusta,2012-006H,2012-02-13," Kourou, French Guiana", Vega,Unknown (France)
+85,SDS 4,2012-025C,2012-05-17," Tanegashima, Japan", H-2A,Japan Aerospace Exploration Agency (Japan)
+86,SES 4,2012-007A,2012-02-14," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Proton-M,SES (International)
+87,SES 5,2012-036A,2012-07-09," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Proton-M,unknown
+88,Sfera,2012-042C,2012-08-01," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Soyuz,Russian Space Agency (Russia)
+89,Shenzhou 9,2012-032A,2012-06-16," Jiuquan, Peoples Republic of China", Long March 2F,China National Space Administration (Peoples Republic of China)
+90,Shijian 9A,2012-056A,2012-10-14," Taiyuan, Peoples Republic of China", Long March 2C,China National Space Administration (Peoples Republic of China)
+91,Shijian 9B,2012-056B,2012-10-14," Taiyuan, Peoples Republic of China", Long March 2C,China National Space Administration (Peoples Republic of China)
+92,Skynet 5D,2012-075A,2012-12-19," Kourou, French Guiana", Ariane 5 ECA,unknown
+93,SMDC ONE 1.1,2012-048J,2012-09-13," Vandenberg AFB, United States", Atlas V 401,Department of Defense-Department of the Army (United States)
+94,SMDC ONE 1.2,2012-048B,2012-09-13," Vandenberg AFB, United States", Atlas V 401,Department of Defense-Department of the Army (United States)
+95,Soyuz-TMA 04M,2012-022A,2012-05-15," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Soyuz FG,Unknown (Russia)
+96,Soyuz-TMA 5M,2012-037A,2012-07-15," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Soyuz FG,unknown
+97,Soyuz-TMA 6M,2012-058A,2012-10-23," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Soyuz FG,National Aeronautics and Space Administration (United States)
+98,Soyuz-TMA 7M,2012-074A,2012-12-19," Tyuratam (Baikonur Cosmodrome), Russia", Soyuz FG,Unknown (Russia)
+99,SpaceX CRS-1,2012-054A,2012-10-08," Cape Canaveral, United States", Falcon 9,National Aeronautics and Space Administration (United States)
+100,SPOT 6,2012-047A,2012-09-09," Sriharikota, France", PSLV-CA,unknown
+101,Star One C3,2012-062A,2012-11-10," Kourou, French Guiana", Ariane 5 ECA,Unknown (Brazil)
+102,STRAND 1,2012-009E,2012-02-25," Sriharikota, United Kingdom", PSLV-CA,Unknown (United Kingdom)
+103,TechEdSat,2012-038D,2012-07-21," Tanegashima, Japan", H-2B,Unknown (United States)
+104,Telkom 3,2012-044A,2012-08-06," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Proton-M,Unknown (Indonesia)
+105,TET 1,2012-039D,2012-07-22," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Soyuz FG,"Deutsche Forschunganstalt fuer Luft- und Raumfahrt (DLR, nee DFVLR) (Germany)"
+106,Tianhui 1-02,2012-020A,2012-05-06," Jiuquan, Peoples Republic of China", Long March 2D,Unknown (Peoples Republic of China)
+107,Tianlian 1-03,2012-040A,2012-07-25," Xichang, Peoples Republic of China", Long March 3C,Unknown (Peoples Republic of China)
+108,Tiantuo I,2012-021B,2012-05-10," Taiyuan, Peoples Republic of China", Long March 4B,Unknown (Peoples Republic of China)
+109,USA 234,2012-014A,2012-04-03," Vandenberg AFB, United States", Delta IV,National Reconnaissance Office (United States)
+110,USA 236,2012-033A,2012-06-20," Cape Canaveral, United States", Atlas V 401,National Reconnaissance Office (United States)
+111,USA 237,2012-034A,2012-06-29," Cape Canaveral, United States", Delta IV,National Reconnaissance Office (United States)
+112,USA 238,2012-048A,2012-09-13," Vandenberg AFB, United States", Atlas V 401,National Reconnaissance Office (United States)
+113,Van Allen Probe A (RBSP-A),2012-046A,2012-08-30," Cape Canaveral, United States", Atlas V 401,National Aeronautics and Space Administration (United States)
+114,Van Allen Probe B (RBSP-B),2012-046B,2012-08-30," Cape Canaveral, United States", Atlas V 401,National Aeronautics and Space Administration (United States)
+115,Vesselsat 2,2012-001B,2012-01-09," Taiyuan, Peoples Republic of China", Long March 4B,Unknown (Luxembourg)
+116,Vinasat 2,2012-023B,2012-05-15," Kourou, French Guiana", Ariane 5 ECA,Unknown (Vietnam)
+117,VRSS 1,2012-052A,2012-09-29," Jiuquan, Peoples Republic of China", ,unknown
+118,WE WISH,2012-038F,2012-07-21," Tanegashima, Japan", H-2B,Unknown (Japan)
+119,WGS F4,2012-003A,2012-01-20," Cape Canaveral, United States", Delta IV,unknown
+120,Xatcobeo,2012-006F,2012-02-13," Kourou, French Guiana", Vega,Unknown (Spain)
+121,Xinyan 1,2012-064C,2012-11-18," Taiyuan, Peoples Republic of China", Long March 2C,Unknown (Peoples Republic of China)
+122,Yahsat 1B,2012-016A,2012-04-23," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Proton-M,Unknown (United Arab Emirates)
+123,Yamal 300K,2012-061B,2012-11-02," Tyuratam (Baikonur Cosmodrome), Kazakhstan", Proton-M,Unknown (Russia)
+124,Yamal 402,2012-070A,2012-12-08," Tyuratam (Baikonur Cosmodrome), Russia", Proton-M,Unknown (Russia)
+125,Yaogan 14,2012-021A,2012-05-10," Taiyuan, Peoples Republic of China", Long March 4B,Unknown (Peoples Republic of China)
+126,Yaogan 15,2012-029A,2012-05-29," Taiyuan, Peoples Republic of China", Long March 4C,Unknown (Peoples Republic of China)
+127,Yaogan 16A,2012-066A,2012-11-25," Jiuquan, Peoples Republic of China", Long March 4C,Unknown (Peoples Republic of China)
+128,Yaogan 16B,2012-066B,2012-11-25," Jiuquan, Peoples Republic of China", Long March 4C,Unknown (Peoples Republic of China)
+129,Yaogan 16C,2012-066C,2012-11-25," Jiuquan, Peoples Republic of China", Long March 4C,Unknown (Peoples Republic of China)
+130,Yubeleiny 2,2012-041C,2012-07-28," Plesetsk, Russia", Rokot/Breeze-KM,Russian Space Forces (Russia)
+131,Ziyuan 3,2012-001A,2012-01-09," Taiyuan, Peoples Republic of China", Long March 4B,Unknown (Peoples Republic of China)

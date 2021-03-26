@@ -1,0 +1,214 @@
+========================================================
+             SPACE LAUNCH REPORT
+
+ 1998 LAUNCH LOG AND LAUNCH VEHICLE/SITE STATISTICS
+
+                 by Ed Kyle      
+========================================================
+
+       1998 LAUNCH VEHICLE SUMMARY
+
+Calendar year launch vehicle results, ranked by number 
+of successes, with launch total as the first tiebreaker 
+and vehicle payload mass as the second tiebreaker.  
+Low Earth Orbit (LEO) missions have orbital periods 
+less than 2 hours. Deep Space missions include 
+heliocentric, planetocentric, and solar system escape 
+trajectories.
+
+
+=========================================================
+Vehicle            Overall           By Orbit Type
+                   Launches      Earth-Orbit Earth-Escape
+                  (Failures)      LEO   >LEO  Deep Space
+=========================================================
+Delta 2              12(0)*       7(0)   3(0)   2(0)*
+R-7 Soyuz/Molniya**  11(0)        8(0)*  3(0)    -
+Ariane 4             10(0)        1(0)   9(0)*   -
+Proton K/DM           7(0)        1(0)   6(0)    -
+Atlas 2/2A(S)         6(0)         -     6(0)    -
+Chang Zheng ****      6(0)        4(0)   2(0)    -
+Pegasus-XL            6(0)        6(0)    -      -
+STS                   5(0)        5(0)    -      -
+Kosmos 3M             2(0)        2(0)    -      -
+Taurus                2(0)        2(0)    -      -
+Zenit 2               3(1)        3(1)    -      -
+Ariane 5              1(0)         -     1(0)    -
+Athena 2              1(0)         -      -     1(0)
+Titan 2               1(0)        1(0)    -      -
+M-5                   1(0)         -      -     1(0)
+RSM-54                1(0)        1(0)    -      -
+Titan 4               2(1)         -     2(1)    -
+Delta 3               1(1)         -     1(1)    -
+H-2                   1(1)         -     1(1)    -
+Shavit                1(1)        1(1)    -      -
+Taepo Dong            1(1)        1(1)    -      -
+Tsiklon 3             1(1)        1(1)    -      -
+=========================================================
+Totals               82(7)       44(4)  34(3)   4(0)
+
+
+* Denotes Leader in Category for Year
+
+
+** Soyuz/Molniya Details 
+------------------------------------------------------------
+Soyuz-U               8(0)        8(0)*   -      -
+Molniya M             3(0)        ---    3(0)
+------------------------------------------------------------
+
+
+****Chang Zheng (Long March) Details
+------------------------------------------------------------
+CZ-2C/SD              4(0)        4(0)
+CZ-3B                 2(0)        ---    2(0)
+------------------------------------------------------------
+
+
+
+==========================================================================================
+                           1998 ORBITAL LAUNCH LOG
+
+ Date     Vehicle          ID       Payload/Mission                   Site       Orbit
+==========================================================================================
+  1/7/98  Athena 2        LM-004    Lunar Prospector                  CC 46      HCO    
+ 1/10/98  Delta 7925      D252      Skynet 4D                         CC 17B     GEO      
+ 1/22/98  Shavit                    Ofek 4                            PA         (FTO) (1)
+ 1/23/98  STS/Endeavour   OV-105    STS-89/Spacehab DM-10/Mir Dock 8  KC 39A     LEO      
+ 1/29/98  Atlas 2A        AC-109    NRO "Capricorn"                   CC 36A     EEO      
+ 1/29/98  Soyuz-U                   Soyuz TM-27 (Mir 25)              TB 1       LEO      
+  2/4/98  Ariane 44LP     A475      Inmarsat-3F5/Brasilsat B3 (V105)  KO 2       GEO      
+ 2/10/98  Taurus-120      1         GFO 1 / Orbcomm 3,4 / Celestis 2  VA 576E    LEO/P    
+ 2/14/98  Delta 7420-10C  D253      Globalstar 1-4                    CC 17A     LEO      
+ 2/17/98  Soyuz-U                   Kosmos 2349                       TB 31      LEO      
+ 2/18/98  Delta 7920-10C  D254      Iridium MS-7 [50/52/53/54/56]     VA 2W      LEO      
+ 2/21/98  H-2             H-2-5F    COMETS                            TA Y       (EEO) (2)
+ 2/26/98  Pegasus-XL      12        SNOE / BATSAT (T1)                VA L1011   LEO/P    
+ 2/27/98  Ariane 42P      A476      Hotbird 4 (V106)                  KO 2       GEO
+ 2/28/98  Atlas 2AS       AC-151    Intelsat 806                      CC 36B     GEO
+ 3/14/98  Soyuz-U                   Progress M-38 (7K-T6M 240)        TB 1       LEO
+ 3/16/98  Atlas 2         AC-132    UHF F8 (GBS 8)                    CC 36A     GEO
+ 3/24/98  Ariane 40       A477      Spot 4 (V107)                     KO 2       LEO/S
+ 3/25/98  CZ-2C/SD        CZ2C-17   Iridium SV 51,61                  TY TY      LEO
+ 3/30/98  Delta 7920-10C  D255      Iridium MS-8 [55/57/58/59/60]     VA 2W      LEO
+  4/2/98  Pegasus-XL      13        TRACE (NASA)                      VA L1011   LEO/S
+  4/7/98  Proton-K/DM2    391-02    Iridium 62-68                     TB 81/23   LEO
+ 4/17/98  STS/Columbia    OV-102    STS-90 / Neurolab                 KC 39B     LEO
+ 4/24/98  Delta 7420-10C  D256      Globalstar-2 [06/08/14/15]        CC 17A     LEO
+ 4/28/98  Ariane 44P      A478      Nilesat 101 / BSat 1b (V108)      KO 2       GEO
+ 4/29/98  Proton-K/DM-2   384-02    Cosmos 2350                       TB 200/39  GEO
+  5/2/98  CZ 2C/SD        CZ2C-18   Iridium SV 69,71                  TY TY      LEO
+  5/7/98  Molniya-8K78M             Cosmos 2351 [Oko #79]             PL 16/2    EEO
+  5/7/98  Proton-K/DM3    393-02    Echostar 4 (ILS-6)                TB 81/23   GTO+
+  5/9/98  Titan-401B      B25/TC18  USA 139 (NRO elnit)               CC 40      GEO?
+ 5/13/98  Titan-23G/Star  G-12      NOAA 15 (K)                       VA 4W      LEO/P
+ 5/14/98  Soyuz-U                   Progress M-39 (238)               TB 1       LEO  
+ 5/17/98  Delta 7920-10C  D257      Iridium MS-9 [70/72/73/74/75]     VA 2W      LEO
+ 5/30/98  CZ-3B           CZ3B-4    Chinastar 1 (Zhongwei 1)          XC 2       GEO  
+  6/2/98  STS/Discovery   OV-103    STS-91 / Mir Dock 9               KC 39A     LEO  
+ 6/10/98  Delta 7925-9.5  D258      Thor 3                            CC 17A     GEO      
+ 6/15/98  Tskylon-3                 Kosmos 2352-57 [Strela3 108-113]  PL 32/1    (EEO) (3)
+ 6/18/98  Atlas 2AS       AC-153    Intelsat 805                      CC 36A     GEO      
+ 6/24/98  Soyuz-U                   Kosmos 2358                       PL         LEO      
+ 6/25/98  Soyuz-U                   Kosmos 2359                       TB         LEO      
+  7/1/98  Molniya 8K78M             Molniya-3 49                      PL 43/3    EEO      
+  7/3/98  M-5             M-5-2     Planet-B (Mars)                   KA MS      HCO      
+  7/7/98  RSM-54 (Shtil)            Tubsat N                          BA K-407   LEO [11] 
+ 7/10/98  Zenit-2                   Resurs F1-4/microsats             TB 45L     LEO      
+ 7/18/98  CZ-3B           CZ3B-5    Sinosat                           XC 2       GEO      
+ 7/28/98  Zenit-2                   Kosmos 2360                       TB 45L     LEO      
+  8/2/98  Pegasus-XL/HAPS 14        Orbcomm FM13-20                   WI L1011   LEO      
+ 8/12/98  Titan 401A      A20/TC?   Vortex 2 (NRO)                    CC 41      (FTO) (4)
+ 8/13/98  Soyuz-U                   Soyuz TM-28 (Mir 26)              TB 1       LEO      
+ 8/19/98  CZ-2C/SD        CZ2C-19   Iridium SV 3,76                   TY TY      LEO      
+ 8/25/98  Ariane 44P      A479      Singapore-Taiwan (ST-1) (V109)    KO 2       GEO      
+ 8/27/98  Delta 8930      D259      Galaxy 10                         CC 17B     (FTO) (5)
+ 8/30/98  Proton-K/DM3    383-01    Astra 2A (ILS-7)                  TB 81/23   GTO+     
+ 8/30/98  Taepo Dong                Kwangmyongsong 1                  MU         (FTO) (6)
+  9/8/98  Delta 7925-10C  D260      Iridium MS-10 [SV77,79-82]        VA 2W      LEO      
+  9/9/98  Zenit-2                   Globalstar FM5,7,9-13,16-18,20,21 TB 45L     (FTO) (7)
+ 9/16/98  Ariane 44LP     A480      PanAmSat 7 (V110)                 KO 2       GEO      
+ 9/23/98  Pegasus-XL/HAPS 15        Orbcomm FM 21-28                  WI L1011   LEO      
+ 9/28/98  Molniya-8K78M             Molniya-1T                        PL         EEO      
+ 10/3/98  Taurus-120      2         STEX (NRO)                        VA 576E    LEO/P   
+ 10/5/98  Ariane 44L      A481      Eutelsat W2/Sirius 3 (V111)       KO 2       GEO     
+ 10/9/98  Atlas 2A        AC-134    Hot Bird 5 (Eutelsat)             CC 36B     GEO     
+10/20/98  Atlas 2A        AC-130    UHF F9 (GBS 9)                    CC 36A     GEO     
+10/21/98  Ariane 5        A503      ARD/Maqsat 3 (V112)               KO 3       GTO     
+10/23/98  Pegasus-XL      16        SCD 2                             CC L1011   LEO     
+10/24/98  Delta 7326      D261      Deep Space 1                      CC 17A     HCO     
+10/25/98  Soyuz-U                   Progress M-40                     TB 1       LEO     
+10/28/98  Ariane 44L      A482      Afristar / GE-5 (V113)            KO 2       GEO     
+10/29/98  STS/Discovery   OV-103    STS-95/Spartan201-F5/Spacehab SM  KC 39B     LEO [8]
+ 11/4/98  Proton-K/DM3              PanAmSat 8 (ILS-8)                TB 81/23   GTO+   
+ 11/6/98  Delta 7920-10C  D262      Iridium MS-11 [SV2,83-86]         VA 2W      LEO
+11/20/98  Proton-K        395-01    Zarya (ISS 1A/R)                  TB 81/23   LEO [9]
+11/22/98  Delta 7925      D263      Bonum 1                           CC 17B     GEO
+ 12/4/98  STS/Endeavour   OV-105    STS-88 [ISS-2A] / Unity Node 1    KC 39A     LEO [10]
+ 12/6/98  Ariane 42L      A483      Satmax 5 (V114)                   KO 2       GEO     
+ 12/6/98  Pegasus-XL      17        SWAS (NASA)                       VA L1011   LEO
+12/10/98  Cosmos 3M                 Nadezhda/Astrid-2                 PL 132     LEO     
+12/11/98  Delta 7425      D264      Mars Climate Orbiter              CC 17A     HCO     
+12/19/98  CZ-2C/SD        CZ2C-20   Iridium SV (2)                    TY TY      LEO     
+12/22/98  Ariane 42L      A484      PanAmSat 6B (V115)                KO 2       GEO     
+12/24/98  Cosmos 3M                 Cosmos 2361 [Parus]               PL 132     LEO
+12/30/98  Proton-K/DM-2             Cosmos 2362-64 [3xUragan]         TB 200/39  MEO  
+========================================================================================
+
+(1) Failed 2 min into 2nd stg burn
+(2) Second second stage burn 44s instead of 3m 12s
+(3) S5M stg cutoff early at apogee, 1300x1900kmx82.6deg orbits slightly low
+(4) Exploded at T+41.3s after power glitch caused loss of guidance and pitchover
+(5) First Delta 3; exploded at T+75s; guidance failure (algorithm)
+(6) First North Korean IRBM - claimed sat did not orbit due upper stage problem
+(7) First Zenit com - guidance fail T+272s after staging before fairing sep
+
+[8] John Glenn flight, oldest astronaut at 77 yrs 
+[9] First ISS launch
+[10] First US ISS launch
+[11] First orbital launch from submarine
+
+
+*Site Code:
+
+AL = Alcantara, Brazil
+BA = Barents Sea (Sub Launch), Russia
+CC = Cape Canaveral, FL, USA  
+JQ = Ji Quan, China 
+KA = Kagoshima, Japan 
+KO = Kourou, French Guyana
+KC = Kennedy Space Center, FL, USA
+KW = Kwajalein, Marshall Is.
+KY = Kapustin Yar, Russia
+PA = Palamchima, Isreal 
+PL = Plesetsk Northern Cosmodrome, Russia
+PO = Pacific Ocean Range 154W-0N
+SR = Satish Dhawan Space Center, Sriharikota, India
+TA = Tanageshima-Yoshinobu, Japan 
+TB = Tyuratam/Baikonur, Kazakstahn
+TY = Taiyuan, China 
+WI = Wallops Island 
+XC = Xi Chang, China 
+VA = Vandenberg AFB, CA, USA
+
+**Orbit Code:
+
+EEO/M = Molynia (12-hr) Elliptical Earth Orbit
+FTO = Failed to Orbit
+FSO = Failed Suborbital
+GTO = Geosynchronous Transfer Orbit
+GTO+ = Supersynchronous Transfer Orbit
+GTO- = Subsynchronous Transfer Orbit
+GEO = Geosynchronous Orbit
+HCO = Heliocentric (solar) Orbit
+HTO = High Earth Transfer Orbit
+LEO = Low Earth Orbit
+LEO/S = Sun Synchronous Low Earth Orbit
+LEO/P = Polar Low Earth Orbit
+MEO = Medium Earth Orbit
+MTO = Medium Earth Transfer Orbit 
+
+=========================================================================
+
+Use browser return arrow to go back to: 
+http://www.geocities.com/launchreport/slr.html 
